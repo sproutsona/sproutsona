@@ -1,8 +1,8 @@
 <p align="center">
 <img src="https://files.catbox.moe/ogg4ad.png">
 <br>
-<br> ${\textsf{\color{#963369}welcome}}$
- ${\textsf{\color{#939468}to}}$ ${\textsf{\color{#963369}dandy's}}$ ${\textsf{\color{#939468}world}}$ <br>
+<br> ${\textsf{\color{#672459}welcome}}$
+ ${\textsf{\color{#97A15C}to}}$ ${\textsf{\color{#672459}dandy's}}$ ${\textsf{\color{#97A15C}world}}$ <br>
 <p align="center">
 ︵︵︵︵╭   ✧   ╮︵︵︵︵
 <p align="center">
