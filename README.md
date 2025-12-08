@@ -1,4 +1,6 @@
 <p align="center">
+ <a href="https://hits.sh/github.com/sproutsona/"><img alt="Hits" src="https://hits.sh/github.com/sproutsona.svg?style=for-the-badge&label=sproutsonas&extraCount=347&color=97A15C&labelColor=672459"/></a>
+ <p align="center">
 <img src="https://files.catbox.moe/ogg4ad.png">
 <br>
 <br> ${\textsf{\color{#672459}welcome}}$
